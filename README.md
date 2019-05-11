@@ -1,0 +1,2 @@
+# dinistest
+test for dinis
